@@ -15,7 +15,7 @@ A simple tool that can extract chapter files and qpfiles from Blu-ray ISO.
 bdgetchapter [path to your BDMV or BDISO or BD Drive] [output path]
 ```
 
-All chapter files all output to the output path.
+All chapter files all output to the output path.  
 Default output path is same as path to your BDMV or BDISO or BD Drive.
 
 ## Licence
