@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A simple tool that can extract chapter file and qpfile from Blu-ray ISO.
+A simple tool that can extract chapter files and qpfiles from Blu-ray ISO.
 
 ## Dependencies
 
