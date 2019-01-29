@@ -1,5 +1,22 @@
 # BDGetChapter
 
+## Introduction
+
+A simple tool that can extract chapter file and qpfile from Blu-ray ISO.
+
+## Dependencies
+
+- [libbliray](http://www.videolan.org/developers/libbluray.html)
+- [Qt5](https://www.qt.io) or later if you want to build GUI version.
+
+## Commmand-line tool usage
+
+```shell
+bdgetchapter [path to your BDMV or BDISO or BD Drive] [output path]
+```
+
+All chapter files all output to the output path.
+
 ## Licence
 
 [GNU LGPL 3.0](http://www.gnu.org/licenses/lgpl-3.0.html)
