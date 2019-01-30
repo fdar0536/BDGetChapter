@@ -74,7 +74,7 @@ int main(int argc, char *argv[])
 
     try
     {
-		bdgetchap_main_process(input, output);
+        bdgetchap_main_process(input, output);
     }
     catch(const char *err)
     {
@@ -89,7 +89,7 @@ void help(char **argv)
 {
     cout << "Usage:" << endl;
     cout << argv[0] << " [path to your BDMV or BDISO or BD Drive] [output path]" << endl;
-    cout << "output path default is same as path to your BDMV or BDISO or BD Drive." << endl;
+    cout << "Default output path is same as path to your BDMV or BDISO or BD Drive." << endl;
     cout << "\"-h\" or \"--help\": print this message and exit" << endl;
 }
 
