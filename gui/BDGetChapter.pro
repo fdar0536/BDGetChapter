@@ -26,6 +26,11 @@ win32 {
             "M:/path/to/your/libbluray/lib/x64/libbluray.lib"
 }
 
+linux {
+    CONFIG += link_pkgconfig
+    PKGCONFIG += libbluray
+}
+
 FORMS += \
         mainwindow.ui
 
