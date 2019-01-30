@@ -18,6 +18,7 @@ along with BDGetChapter.  If not, see <http://www.gnu.org/licenses/>.
 
 #include <string>
 #include <vector>
+#include <algorithm>
 
 //system
 //for make dir
