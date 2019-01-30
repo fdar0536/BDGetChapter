@@ -1,4 +1,4 @@
-TARGET ?= bdgetchaper
+TARGET ?= bdgetchapter
 CXX ?= g++
 CXXFLAGS += -O2 -Wall -Wextra -Werror $(shell pkgconf --cflags libbluray)
 LIBS += $(shell pkgconf --libs libbluray)
