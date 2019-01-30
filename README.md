@@ -6,7 +6,7 @@ A simple tool that can extract chapter files and qpfiles from Blu-ray ISO.
 
 ## Dependencies
 
-- [libbliray](http://www.videolan.org/developers/libbluray.html)
+- [libbluray](http://www.videolan.org/developers/libbluray.html)
 - [Qt5](https://www.qt.io) or later if you want to build GUI version.
 
 ## Commmand-line tool usage
