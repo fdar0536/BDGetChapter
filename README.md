@@ -20,7 +20,7 @@ Default output path is same as path to your BDMV or BDISO or BD Drive.
 
 ## Licence
 
-[GNU LGPL 3.0](http://www.gnu.org/licenses/lgpl-3.0.html)
+[GNU GPL 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Reference
 
